@@ -13,7 +13,7 @@ As a person, I am interested in technology, fitness, design, and building things
 
 ## Picture
 
-![A photo of me](images/profile.jpg)
+![A photo of me](images/F947D16E-2F0C-406D-82B5-9028990A3D85_1_105_c.jpeg)
 
 [Link to my LinkedIn ](https://www.linkedin.com/in/aaran-patel-aa64462b4/)
 
